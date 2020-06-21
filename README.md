@@ -12,7 +12,7 @@ Projet d'application Android Studio sur les équipes de NBA.
 - Remplir Port : 12345 modifiable sur SocketServer </br>
 - Remplir Nom : 12345 modifiable sur SocketServer </br>
 ```
-git clone https://github.com/Alexi911/NBATeams.git
+git clone https://github.com/Alexi911/Chat.git
 ```
 ### Architecture MVC
 

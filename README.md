@@ -51,5 +51,5 @@ git clone https://github.com/Alexi911/Chat.git
 #### Attente d'acceptation
 ![Screen06](https://raw.githubusercontent.com/Alexi911/Chat/master/ScreenShot_ReadMe/06.png)
 
-#### Lancement du chatv privé
+#### Lancement du chat privé
 ![Screen06](https://raw.githubusercontent.com/Alexi911/Chat/master/ScreenShot_ReadMe/06.png)

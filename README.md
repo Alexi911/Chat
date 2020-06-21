@@ -21,9 +21,12 @@ git clone https://github.com/Alexi911/NBATeams.git
 
 ### Résumé
 
-- Architecture MVC </br>
-- Architecture SOLID </br>
-- Utilisation Singleton </br>
+- SGBDR </br>
+- Thread </br>
+- Serveur </br>
+- Interface </br>
+- Javadoc </br>
+- Méthode de développement Kanban
 
 ### Captures d'écrans
 

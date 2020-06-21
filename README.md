@@ -53,3 +53,6 @@ git clone https://github.com/Alexi911/Chat.git
 
 #### Lancement du chat privé
 ![Screen06](https://raw.githubusercontent.com/Alexi911/Chat/master/ScreenShot_ReadMe/07.png)
+
+#### Acceptation du chat privé
+![Screen06](https://raw.githubusercontent.com/Alexi911/Chat/master/ScreenShot_ReadMe/08.png)

@@ -49,10 +49,7 @@ git clone https://github.com/Alexi911/Chat.git
 ![Screen06](https://raw.githubusercontent.com/Alexi911/Chat/master/ScreenShot_ReadMe/06.png)
 
 #### Attente d'acceptation
-![Screen06](https://raw.githubusercontent.com/Alexi911/Chat/master/ScreenShot_ReadMe/06.png)
-
-#### Lancement du chat privé
 ![Screen06](https://raw.githubusercontent.com/Alexi911/Chat/master/ScreenShot_ReadMe/07.png)
 
-#### Acceptation du chat privé
+#### Lancement du chat privé
 ![Screen06](https://raw.githubusercontent.com/Alexi911/Chat/master/ScreenShot_ReadMe/08.png)

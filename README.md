@@ -1,6 +1,6 @@
-# NBATeams 
+# Chat 
 
-Projet d'application Android Studio sur les équipes de NBA.
+Projet d'application Java d'un Chat Room.
 
 <br/>
 

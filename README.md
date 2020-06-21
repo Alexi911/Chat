@@ -33,10 +33,10 @@ git clone https://github.com/Alexi911/Chat.git
 #### Welcome
 ![screen01](https://raw.githubusercontent.com/Alexi911/Chat/master/ScreenShot_ReadMe/01.png)
 
-#### Entrée IP et Port utilisé
+#### Entrez IP et Port utilisé
 ![Screen02](https://raw.githubusercontent.com/Alexi911/Chat/master/ScreenShot_ReadMe/02.png)
 
-#### Entré le nom
+#### Entrez le nom
 ![Screen03](https://raw.githubusercontent.com/Alexi911/Chat/master/ScreenShot_ReadMe/03.png)
 
 #### Ecran principal du chat
